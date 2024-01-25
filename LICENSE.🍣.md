@@ -1,6 +1,6 @@
 # "THE SUSHI-WARE LICENSE"
 
-[koki0517](https://github.com/koki0517) wrote this file.
+[こんぶ畑](https://github.com/KOMBU-Batake) wrote this file.
 
 As long as you retain this notice you can do whatever you want
 with this stuff. If we meet some day, and you think this stuff
